@@ -8,4 +8,4 @@ This Project aims at classifying heart disease. The dataset can be found [here](
 - KNN
 
 1 Linear classifier implemented:
-- Ho-Kashyap Rule 
+- Ho-Kashyap Rule
