@@ -1,5 +1,5 @@
 # PatternRecognition
-If using Google Colab to run this project, upload the heart.csv file to session storage.
+heart.csv file is the data source.
 
 This Project aims at classifying heart disease. The dataset can be found [here](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
