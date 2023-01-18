@@ -1,4 +1,4 @@
-# PatternRecognition
+# PatternRecognition ...
 heart.csv file is the data source.
 
 This Project aims at classifying heart disease. The dataset can be found [here](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
@@ -8,6 +8,4 @@ This Project aims at classifying heart disease. The dataset can be found [here](
 - KNN
 
 1 Linear classifier implemented:
-- Ho-Kashyap Rule
-
-
+- Ho-Kashyap Rule 
