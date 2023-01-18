@@ -1,5 +1,5 @@
 # PatternRecognition
-heart.csv file is the data source ttttt 4545.
+heart.csv file is the data source.
 
 This Project aims at classifying heart disease. The dataset can be found [here](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
